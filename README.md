@@ -17,10 +17,10 @@ cd Selinux-scanner
 ### Excecutable Permission
 
 ```bash
-chmod +x selinux_scanner.sh
+chmod +x selinux.sh
 ```
 ### Run the Script
 
 ```bash
-sudo ./selinux_scanner.sh
+sudo ./selinux.sh
 ```
